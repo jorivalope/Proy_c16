@@ -1,2 +1,4 @@
 Archivo nuevo
 Esta es la segunda linea
+Esta es la tercera linea
+Esta es la cuarta linea
